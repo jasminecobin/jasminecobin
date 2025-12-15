@@ -22,6 +22,7 @@ Check out our latest kits tailored for your research:
 | **PCR Essentials** | High-fidelity Mastermixes & Primers | https://notarkibco.com/electrophoresis/ |
 | **DNA/RNA Extraction** | Fast & pure isolation kits | https://notarkibco.com/molecular-kits-and-materials/ |
 | **Lab Consumables** | Tips, Tubes, and Plastics | https://notarkibco.com/product/sybrgreen-mastermix-realtiq/|
+[Browse Shop](لینک-صفحه-مصرفی-سایت-شما)
 
 ---
 
