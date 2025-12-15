@@ -1,10 +1,10 @@
-### Hi there! 👋 We are NOTARKIBCO
+### Hi there! 👋 We are [نام برند شما]
 
-Bridging the gap between Research and Quality Supplies 🧬
+**Bridging the gap between Research and Quality Supplies** 🧬
 
 We are a biotechnology company focused on providing high-quality laboratory materials and bioinformatics solutions for researchers.
 
-
+---
 
 ### 🚀 What We Do
 We specialize in Molecular Biology and Genetics tools. Our goal is to make research easier and more reproducible.
@@ -19,10 +19,10 @@ We specialize in Molecular Biology and Genetics tools. Our goal is to make resea
 Check out our latest kits tailored for your research:
 
 | Product Category | Description | Link |
-| **PCR Essentials** | High-fidelity Mastermixes & Primers | https://notarkibco.com/electrophoresis/ |
-| **DNA/RNA Extraction** | Fast & pure isolation kits | https://notarkibco.com/molecular-kits-and-materials/ |
-| **Lab Consumables** | Tips, Tubes, and Plastics | https://notarkibco.com/product/sybrgreen-mastermix-realtiq/|
-[Browse Shop](لینک-صفحه-مصرفی-سایت-شما)
+| :--- | :--- | :--- |
+| **PCR Essentials** | High-fidelity Mastermixes & Primers | [View Products](https://notarkibco.com/product/sybrgreen-mastermix-realtiq/) |
+| **DNA/RNA Extraction** | Fast & pure isolation kits | [View Kits](https://notarkibco.com/molecular-kits-and-materials) |
+| **Lab Consumables** | Tips, Tubes, and Plastics | [Browse Shop](https://notarkibco.com/shop/) |
 
 ---
 
@@ -38,8 +38,7 @@ Check out our latest kits tailored for your research:
 ### 📫 Connect with Us
 Got a question about a protocol or a product?
 
-- 🌐 **Website:** [www.yoursite.com](لینک-اصلی-سایت-شما)
-- 💼 **LinkedIn:** [لینک لینکدین شما]
-- 📧 **Email:** [ایمیل سازمانی شما]
+- 🌐 **Website:** [Notarkibco](https://notarkibco.com/)
+- 💼 **LinkedIn:** [https://www.linkedin.com/company/notarkibco]
 
-![Profile Views](https://github.com/jasminecobin)
+![Profile Views](https://komarev.com/ghpvc/?username=jasminecobin&color=green)
