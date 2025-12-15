@@ -1,4 +1,4 @@
-### Hi there! 👋 We are [نام برند شما]
+### Hi there! 👋 We are [NOTARKIBCO]
 
 **Bridging the gap between Research and Quality Supplies** 🧬
 
